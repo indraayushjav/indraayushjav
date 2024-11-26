@@ -1,4 +1,4 @@
-<h1>Hi, I'm Indra! 
+ <h1>👋 Hi, I'm Indra! 
 
 <h2>👩🏻‍💻 Data Science Projects:</h2>
 
