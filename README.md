@@ -1,4 +1,9 @@
  <h1>👋 Hi, I'm Indra! 
+ 🎓 Information Sciences + Data Science @ UIUC | 🌟 Passionate about education, data, and technology
+📊 Skilled in Python, SQL, Tableau, and data-driven problem-solving
+💡 Empowering communities through outreach and innovative solutions
+🚀 Exploring the intersection of education and technology for impactful change
+📫 Let’s connect: [LinkedIn profile link or email]
 
 <h2>👩🏻‍💻 Data Science Projects:</h2>
 
