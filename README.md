@@ -12,6 +12,6 @@
 <h2>👩🏻‍💻 Data Science Projects:</h2>
 
 - <b>SQL Projects</b>
-  - [Retail Sales Analysis]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/indraayushjav/sql_retail_sales)])
+  - [Retail Sales Analysis](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/indraayushjav/sql_retail_sales))
 
 
