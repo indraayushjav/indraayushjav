@@ -16,5 +16,6 @@
 
 - <b>Python Projects</b>
   - [Wine Review](https://github.com/indraayushjav/Creating-Wine-Review-System)
+  - [Plotting Wordclouds](https://github.com/indraayushjav/Plotting-wordcluds/tree/main)
 
 
