@@ -14,4 +14,7 @@
 - <b>SQL Projects</b>
   - [Retail Sales Analysis](https://github.com/indraayushjav/sql_retail_sales)
 
+- <b>Python Projects</b>
+  - [Wine Review](https://github.com/indraayushjav/Creating-Wine-Review-System)
+
 
