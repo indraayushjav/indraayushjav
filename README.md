@@ -16,7 +16,9 @@
   - [Music Store Analysis](https://github.com/indraayushjav/Music-Store-Analysis/tree/main)
 
 - <b>Python Projects</b>
+
   - [Wine Review](https://github.com/indraayushjav/Creating-Wine-Review-System)
   - [Plotting Wordclouds](https://github.com/indraayushjav/Plotting-wordcluds/tree/main)
+  - [Sephora product Analysis](https://github.com/indraayushjav/Sephora-Product-Analysis/tree/main)
 
 
