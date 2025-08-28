@@ -6,7 +6,7 @@
 💡 Empowering communities through outreach and innovative solutions  
 🚀 Exploring the intersection of education and technology for impactful change
 
-📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/indra-ayushjav-7318b5202/) | [Email](mailto:indraayushjav9@gmail.com)
+📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/indra-ayushjav/) | [Email](mailto:indraayushjav9@gmail.com)
 
 
 <h2>👩🏻‍💻 Data Science Projects:</h2>
