@@ -9,7 +9,9 @@
 📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/indra-ayushjav/) | [Email](mailto:indraayushjav9@gmail.com)
 
 
-<h2>👩🏻‍💻 Data Science Projects:</h2>
+<h2>👩🏻‍💻 Data Science/Analytics Projects:</h2>
+
+- <b>Data Visualization Projects</b>
 
 - <b>SQL Projects</b>
   - [Retail Sales Analysis](https://github.com/indraayushjav/sql_retail_sales)
