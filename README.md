@@ -12,13 +12,13 @@
 <h2>👩🏻‍💻 Data Science/Analytics Projects:</h2>
 
 - <b>Data Visualization Projects</b>
- - [Netflix Tableau Analysis](https://github.com/indraayushjav/Netflix-Tableau-Visualization/blob/main/README.md)
+  - [Netflix Tableau Analysis](https://github.com/indraayushjav/Netflix-Tableau-Visualization/blob/main/README.md)
+  
 - <b>SQL Projects</b>
   - [Retail Sales Analysis](https://github.com/indraayushjav/sql_retail_sales)
   - [Music Store Analysis](https://github.com/indraayushjav/Music-Store-Analysis/tree/main)
 
 - <b>Python Projects</b>
-
   - [Sephora product Analysis](https://github.com/indraayushjav/Sephora-Product-Analysis/tree/main)
   - [Wine Review](https://github.com/indraayushjav/Creating-Wine-Review-System)
   - [Plotting Wordclouds](https://github.com/indraayushjav/Plotting-wordcluds/tree/main)
